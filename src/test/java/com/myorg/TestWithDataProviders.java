@@ -7,6 +7,7 @@ import static org.testng.Assert.assertNull;
 
 /**
  * Created by anthonyc on 5/11/16.
+ * This class contains the unit tests for computeTotalCost() module but using DataProvider to pass in different sets of data to the test.
  */
 public class TestWithDataProviders {
 
