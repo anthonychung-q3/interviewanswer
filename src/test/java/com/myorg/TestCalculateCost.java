@@ -6,6 +6,7 @@ import static org.testng.Assert.assertNull;
 
 /**
  * Created by anthonyc on 5/10/16.
+ * This class contains unit tests for the computeTotalCost() module.
  */
 public class TestCalculateCost {
 
